@@ -13,10 +13,10 @@ class Solution {
                     long sum = (long)nums[i] + nums[j] + nums[left] + nums[right];
                     if (sum == target) {
                         result.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
-                    while (left < right && nums[left + 1] == nums[left]) left++;
-                    left++;
-                    while (left < right && nums[right - 1] == nums[right]) right--;
-                    right--;
+                        while (left < right && nums[left + 1] == nums[left]) left++;
+                        left++;
+                        while (left < right && nums[right - 1] == nums[right]) right--;
+                        right--;
                     } else if (sum < target) {
                         left++;
                     } else {
