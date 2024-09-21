@@ -12,7 +12,8 @@ class Solution {
         int count = 0;
         int minMid = 1, maxMid = 1;
         for (int left = 0; left < n - 2; left++) {
-            while (minMid <= left || (minMid < n && prefixSum[minMid] - prefixSum[left] < prefixSum[left])) {
+            minMid = Math.max(minMid, left + 1);
+            while (minMid < n && prefixSum[minMid] - prefixSum[left] < prefixSum[left]) {
                 minMid++;
             }
             maxMid = Math.max(maxMid, minMid);
