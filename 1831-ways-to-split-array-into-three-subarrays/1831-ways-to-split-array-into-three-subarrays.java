@@ -20,9 +20,7 @@ class Solution {
             while (maxMid < n - 1 && prefixSum[maxMid] - prefixSum[left] <= prefixSum[n - 1] - prefixSum[maxMid]) {
                 maxMid++;
             }
-            if (minMid <= maxMid - 1) {
-                count = (count + (maxMid - minMid)) % MOD;
-            }
+            count = (count + (maxMid - minMid)) % MOD;
         }
 
         return count;
