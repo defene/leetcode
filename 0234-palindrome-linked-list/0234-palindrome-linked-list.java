@@ -12,19 +12,23 @@ class Solution {
     public boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) return true;
 
-        ListNode mid = findMid(head);
-        mid = reverse(mid);
+        ListNode firstHalfEnd = endOfFirstHalf(head);
+        ListNode secondHalfStart = reverseList(firstHalfEnd.next);
 
-        while (mid != null) {
-            if (mid.val != head.val) return false;
-            mid = mid.next;
-            head = head.next;
-        }
+        ListNode p1 = head;
+        ListNode p2 = secondHalfStart;
+        boolean result = true;
+        while (result && p2 != null) {
+            if (p1.val != p2.val) result = false;
+            p1 = p1.next;
+            p2 = p2.next;
+        }        
 
-        return true;
+        firstHalfEnd.next = reverseList(secondHalfStart);
+        return result;
     }
 
-    private ListNode findMid(ListNode head) {
+    private ListNode endOfFirstHalf(ListNode head) {
         ListNode slow = head;
         ListNode fast = head.next;
 
@@ -33,10 +37,10 @@ class Solution {
             slow = slow.next;
         }
 
-        return slow.next;
+        return slow;
     }
 
-    public ListNode reverse(ListNode head){
+    public ListNode reverseList(ListNode head){
         ListNode prev = null;
         ListNode cur = head;
 
