@@ -36,13 +36,16 @@ class Solution {
         return slow.next;
     }
 
-    private ListNode reverse(ListNode head) {
-        if (head == null || head.next == null) return head;
+    public ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode cur = head;
 
-        ListNode newHead = reverse(head.next);
-        head.next.next = head;
-        head.next = null;
-
-        return newHead;
+        while(cur != null){
+            ListNode next = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = next;
+        }
+        return prev;
     }
 }
