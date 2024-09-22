@@ -73,6 +73,7 @@ some try on leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/defene/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -110,4 +111,8 @@ some try on leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/defene/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/defene/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
