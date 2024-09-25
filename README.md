@@ -51,6 +51,7 @@ some try on leetcode
 | [0016-3sum-closest](https://github.com/defene/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/defene/leetcode/tree/master/0018-4sum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 ## Hash Table
 |  |
@@ -58,10 +59,12 @@ some try on leetcode
 | [0001-two-sum](https://github.com/defene/leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 ## Prefix Sum
 |  |
@@ -116,6 +119,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/defene/leetcode/tree/master/0020-valid-parentheses) |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Queue
 |  |
 | ------- |
@@ -128,8 +132,17 @@ some try on leetcode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
