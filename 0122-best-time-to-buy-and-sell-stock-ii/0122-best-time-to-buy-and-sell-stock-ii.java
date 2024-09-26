@@ -1,16 +1,21 @@
 class Solution {
     public int maxProfit(int[] prices) {
-       int n = prices.length;
-       int[] maxIfHold = new int[n];
-       int[] maxIfNotHold = new int[n];
+        int peak = prices[0];
+        int valley = prices[0];
+        int profit = 0;
 
-       maxIfHold[0] = -prices[0];
-       maxIfNotHold[0] = 0;
-       for (int i = 1; i < n; i++) {
-        maxIfHold[i] = Math.max(maxIfHold[i - 1], maxIfNotHold[i - 1] - prices[i]);
-        maxIfNotHold[i] = Math.max(maxIfNotHold[i - 1], maxIfHold[i - 1] + prices[i]);
-       }
+        for (int i = 0; i < prices.length - 1;) {
+            while (i < prices.length - 1 && prices[i] >= prices[i + 1]) {
+                i++;
+            }
+            valley = prices[i];
+            while (i < prices.length - 1 && prices[i] <= prices[i + 1]) {
+                i++;
+            }
+            peak = prices[i];
+            profit += peak - valley;
+        }
 
-       return maxIfNotHold[n - 1];
+        return profit;
     }
 }
