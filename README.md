@@ -15,6 +15,7 @@ some try on leetcode
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -52,6 +53,7 @@ some try on leetcode
 | [0015-3sum](https://github.com/defene/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/defene/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/defene/leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -62,11 +64,13 @@ some try on leetcode
 | [0001-two-sum](https://github.com/defene/leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 ## Prefix Sum
@@ -151,4 +155,8 @@ some try on leetcode
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
