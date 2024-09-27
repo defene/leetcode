@@ -1,11 +1,12 @@
 class RandomizedSet {
-    private HashMap<Integer, Integer> map;
+    private Map<Integer, Integer> map;
     private List<Integer> list;
-    private Random rand = new Random();
+    private Random rand;
 
     public RandomizedSet() {
         map = new HashMap<>();
         list = new ArrayList<>();
+        rand = new Random();
     }
     
     public boolean insert(int val) {
