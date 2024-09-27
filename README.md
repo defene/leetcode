@@ -23,6 +23,7 @@ some try on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/defene/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/defene/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/defene/leetcode/tree/master/0274-h-index) |
@@ -91,6 +92,7 @@ some try on leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/defene/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Dynamic Programming
 |  |
