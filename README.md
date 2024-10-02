@@ -13,6 +13,7 @@ some try on leetcode
 | [0018-4sum](https://github.com/defene/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/defene/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/defene/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
@@ -78,6 +79,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/defene/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
