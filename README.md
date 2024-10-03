@@ -22,6 +22,7 @@ some try on leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/defene/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/defene/leetcode/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ some try on leetcode
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/defene/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Linked List
 |  |
