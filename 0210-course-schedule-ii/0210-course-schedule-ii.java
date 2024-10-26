@@ -8,14 +8,9 @@ class Solution {
             int edgeTo = prerequisites[i][0];   
             inDegree[edgeTo]++; 
 
-            if (!map.containsKey(edgeFrom)) {
-                List<Integer> adjEdges = new ArrayList<>();
-                adjEdges.add(edgeTo);
-                map.put(edgeFrom, adjEdges);
-            } else {
-                List<Integer> adjEdges = map.get(edgeFrom);
-                adjEdges.add(edgeTo);
-            }
+            map.putIfAbsent(edgeFrom, new ArrayList<>());
+            List<Integer> adjEdges = map.get(edgeFrom);
+            adjEdges.add(edgeTo);
         }
 
         Queue<Integer> queue = new ArrayDeque<>();
