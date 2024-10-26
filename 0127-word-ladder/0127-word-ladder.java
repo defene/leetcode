@@ -1,105 +1,76 @@
 class Solution {
-    private int L;
-    private Map<String, List<String>> allComboDict;
+    class Pair<K, V> {
+        K key;
+        V value;
 
-    Solution() {
-        this.L = 0;
+        public Pair(K key, V value) {
+            this.key = key;
+            this.value = value;
+        }
 
-        // Dictionary to hold combination of words that can be formed,
-        // from any given word. By changing one letter at a time.
-        this.allComboDict = new HashMap<>();
+        public K getKey() {
+            return key; 
+        }
+
+        public V getValue() {
+            return value;
+        }
     }
-
-    private int visitWordNode(
-        Queue<Pair<String, Integer>> Q,
-        Map<String, Integer> visited,
-        Map<String, Integer> othersVisited
-    ) {
-        for (int j = Q.size(); j > 0; j--) {
-            Pair<String, Integer> node = Q.remove();
-            String word = node.getKey();
-            int level = node.getValue();
-
-            for (int i = 0; i < this.L; i++) {
-                // Intermediate words for current word
-                String newWord =
-                    word.substring(0, i) + '*' + word.substring(i + 1, L);
-
-                // Next states are all the words which share the same intermediate state.
-                for (String adjacentWord : this.allComboDict.getOrDefault(
-                        newWord,
-                        new ArrayList<>()
-                    )) {
-                    // If at any point if we find what we are looking for
-                    // i.e. the end word - we can return with the answer.
-                    if (othersVisited.containsKey(adjacentWord)) {
-                        return level + othersVisited.get(adjacentWord);
+    
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Set<String> wordSet = new HashSet<>(wordList);
+        if (!wordSet.contains(endWord)) return 0;
+        
+        Queue<Pair<String, Integer>> beginQueue = new LinkedList<>();
+        Queue<Pair<String, Integer>> endQueue = new LinkedList<>();
+        beginQueue.offer(new Pair<>(beginWord, 1));
+        endQueue.offer(new Pair<>(endWord, 1));
+        
+        Map<String, Integer> beginVisited = new HashMap<>();
+        Map<String, Integer> endVisited = new HashMap<>();
+        beginVisited.put(beginWord, 1);
+        endVisited.put(endWord, 1);
+        
+        while (!beginQueue.isEmpty() && !endQueue.isEmpty()) {
+            int result = -1;
+            if (beginQueue.size() <= endQueue.size()) {
+                result = visitWord(beginQueue, beginVisited, endVisited, wordSet);
+            } else {
+                result = visitWord(endQueue, endVisited, beginVisited, wordSet);
+            }
+            if (result > -1) return result;
+        }
+        
+        return 0;
+    }
+    
+    private int visitWord(Queue<Pair<String, Integer>> queue, Map<String, Integer> visited,
+                          Map<String, Integer> otherVisited, Set<String> wordSet) {
+        int size = queue.size();
+        for (int j = 0; j < size; j++) {
+            Pair<String, Integer> current = queue.poll();
+            String word = current.getKey();
+            int level = current.getValue();
+            
+            for (int i = 0; i < word.length(); i++) {
+                char[] charArray = word.toCharArray();
+                for (char c = 'a'; c <= 'z'; c++) {
+                    charArray[i] = c;
+                    String nextWord = new String(charArray);
+                    
+                    if (otherVisited.containsKey(nextWord)) {
+                        return level + otherVisited.get(nextWord);
                     }
-
-                    if (!visited.containsKey(adjacentWord)) {
-                        // Save the level as the value of the dictionary, to save number of hops.
-                        visited.put(adjacentWord, level + 1);
-                        Q.add(new Pair(adjacentWord, level + 1));
+                    
+                    if (wordSet.contains(nextWord) && !visited.containsKey(nextWord)) {
+                        visited.put(nextWord, level + 1);
+                        queue.offer(new Pair<>(nextWord, level + 1));
                     }
                 }
             }
         }
+
+        
         return -1;
-    }
-
-    public int ladderLength(
-        String beginWord,
-        String endWord,
-        List<String> wordList
-    ) {
-        if (!wordList.contains(endWord)) {
-            return 0;
-        }
-
-        // Since all words are of same length.
-        this.L = beginWord.length();
-
-        wordList.forEach(word -> {
-            for (int i = 0; i < L; i++) {
-                // Key is the generic word
-                // Value is a list of words which have the same intermediate generic word.
-                String newWord =
-                    word.substring(0, i) + '*' + word.substring(i + 1, L);
-                List<String> transformations =
-                    this.allComboDict.getOrDefault(newWord, new ArrayList<>());
-                transformations.add(word);
-                this.allComboDict.put(newWord, transformations);
-            }
-        });
-
-        // Queues for birdirectional BFS
-        // BFS starting from beginWord
-        Queue<Pair<String, Integer>> Q_begin = new LinkedList<>();
-        // BFS starting from endWord
-        Queue<Pair<String, Integer>> Q_end = new LinkedList<>();
-        Q_begin.add(new Pair(beginWord, 1));
-        Q_end.add(new Pair(endWord, 1));
-
-        // Visited to make sure we don't repeat processing same word.
-        Map<String, Integer> visitedBegin = new HashMap<>();
-        Map<String, Integer> visitedEnd = new HashMap<>();
-        visitedBegin.put(beginWord, 1);
-        visitedEnd.put(endWord, 1);
-        int ans = -1;
-
-        while (!Q_begin.isEmpty() && !Q_end.isEmpty()) {
-            // Progress forward one step from the shorter queue
-            if (Q_begin.size() <= Q_end.size()) {
-                ans = visitWordNode(Q_begin, visitedBegin, visitedEnd);
-            } else {
-                ans = visitWordNode(Q_end, visitedEnd, visitedBegin);
-            }
-
-            if (ans > -1) {
-                return ans;
-            }
-        }
-
-        return 0;
     }
 }
