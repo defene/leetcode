@@ -220,6 +220,7 @@ some try on leetcode
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,12 +228,14 @@ some try on leetcode
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -242,4 +245,5 @@ some try on leetcode
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
