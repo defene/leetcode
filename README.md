@@ -17,6 +17,7 @@ some try on leetcode
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -257,4 +258,12 @@ some try on leetcode
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
