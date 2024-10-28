@@ -16,6 +16,7 @@ some try on leetcode
 | [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -262,6 +263,7 @@ some try on leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
