@@ -114,6 +114,7 @@ some try on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/defene/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
@@ -179,6 +180,7 @@ some try on leetcode
 | [0013-roman-to-integer](https://github.com/defene/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/defene/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/defene/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/defene/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/defene/leetcode/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
@@ -267,6 +269,7 @@ some try on leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/defene/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/defene/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/defene/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
