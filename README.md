@@ -20,6 +20,7 @@ some try on leetcode
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/defene/leetcode/tree/master/0134-gas-station) |
@@ -262,8 +263,10 @@ some try on leetcode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
