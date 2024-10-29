@@ -41,6 +41,7 @@ some try on leetcode
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1105-uncrossed-lines](https://github.com/defene/leetcode/tree/master/1105-uncrossed-lines) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Two Pointers
@@ -121,6 +122,7 @@ some try on leetcode
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1105-uncrossed-lines](https://github.com/defene/leetcode/tree/master/1105-uncrossed-lines) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/defene/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
