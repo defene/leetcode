@@ -13,9 +13,9 @@ class Solution {
             int currNode = topPair.getValue();
             int currNodeTime = topPair.getKey();
 
-            // if (currNodeTime > signalReceivedAt[currNode]) {
-            //     continue;
-            // }
+            if (currNodeTime > signalReceivedAt[currNode]) {
+                continue;
+            }
 
             if (!adj.containsKey(currNode)) {
                 continue;
