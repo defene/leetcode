@@ -40,6 +40,7 @@ some try on leetcode
 | [0274-h-index](https://github.com/defene/leetcode/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -197,6 +198,7 @@ some try on leetcode
 | [0058-length-of-last-word](https://github.com/defene/leetcode/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/defene/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Queue
@@ -250,6 +252,7 @@ some try on leetcode
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
@@ -260,6 +263,7 @@ some try on leetcode
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
@@ -269,6 +273,7 @@ some try on leetcode
 | ------- |
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
@@ -280,6 +285,7 @@ some try on leetcode
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -330,5 +336,6 @@ some try on leetcode
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
