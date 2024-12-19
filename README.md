@@ -213,6 +213,7 @@ some try on leetcode
 | [0218-the-skyline-problem](https://github.com/defene/leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -251,6 +252,7 @@ some try on leetcode
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -260,6 +262,7 @@ some try on leetcode
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Graph
 |  |
@@ -268,6 +271,7 @@ some try on leetcode
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
+| [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -323,4 +327,8 @@ some try on leetcode
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
