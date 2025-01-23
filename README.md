@@ -21,6 +21,7 @@ some try on leetcode
 | [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/defene/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
@@ -200,6 +201,7 @@ some try on leetcode
 | [0022-generate-parentheses](https://github.com/defene/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/defene/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/defene/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/defene/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -347,4 +349,8 @@ some try on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/defene/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
