@@ -13,6 +13,7 @@ some try on leetcode
 | [0018-4sum](https://github.com/defene/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/defene/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/defene/leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/defene/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/defene/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
@@ -107,6 +108,7 @@ some try on leetcode
 | [0012-integer-to-roman](https://github.com/defene/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/defene/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/defene/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
@@ -319,6 +321,7 @@ some try on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
