@@ -21,6 +21,7 @@ some try on leetcode
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/defene/leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
@@ -322,6 +323,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
@@ -375,5 +377,6 @@ some try on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
