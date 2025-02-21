@@ -20,6 +20,7 @@ some try on leetcode
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/defene/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
@@ -201,6 +202,7 @@ some try on leetcode
 | [0002-add-two-numbers](https://github.com/defene/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/defene/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/defene/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/defene/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -323,6 +325,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
