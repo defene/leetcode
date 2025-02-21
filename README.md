@@ -25,6 +25,7 @@ some try on leetcode
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@ some try on leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/defene/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -327,6 +329,7 @@ some try on leetcode
 | [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
