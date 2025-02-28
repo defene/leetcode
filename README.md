@@ -21,6 +21,7 @@ some try on leetcode
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/defene/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/defene/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
@@ -96,6 +97,7 @@ some try on leetcode
 | [0015-3sum](https://github.com/defene/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/defene/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/defene/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/defene/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
@@ -114,6 +116,7 @@ some try on leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/defene/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/defene/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/defene/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/defene/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
@@ -225,6 +228,7 @@ some try on leetcode
 | [0022-generate-parentheses](https://github.com/defene/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/defene/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/defene/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/defene/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/defene/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/defene/leetcode/tree/master/0071-simplify-path) |
