@@ -41,6 +41,7 @@ some try on leetcode
 | [0189-rotate-array](https://github.com/defene/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/defene/leetcode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/defene/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
@@ -127,6 +128,7 @@ some try on leetcode
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/defene/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/defene/leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/defene/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -261,6 +263,7 @@ some try on leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/defene/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
