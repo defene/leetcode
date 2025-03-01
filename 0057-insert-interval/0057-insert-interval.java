@@ -1,9 +1,5 @@
 class Solution {
-    public int[][] insert(int[][] intervals, int[] newInterval) {
-        if (intervals == null || intervals.length == 0) {
-            return new int[][]{{newInterval[0], newInterval[1]}};
-        }
-        
+    public int[][] insert(int[][] intervals, int[] newInterval) {        
         int n = intervals.length;
         List<int[]> merged = new ArrayList<>();
 
