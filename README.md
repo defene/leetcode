@@ -180,6 +180,7 @@ some try on leetcode
 | [0020-valid-parentheses](https://github.com/defene/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/defene/leetcode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
@@ -221,6 +222,7 @@ some try on leetcode
 | [0025-reverse-nodes-in-k-group](https://github.com/defene/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/defene/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/defene/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -231,6 +233,7 @@ some try on leetcode
 | [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/defene/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/defene/leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
@@ -254,6 +257,7 @@ some try on leetcode
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/defene/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/defene/leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/defene/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
