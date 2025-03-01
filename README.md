@@ -121,6 +121,7 @@ some try on leetcode
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/defene/leetcode/tree/master/0205-isomorphic-strings) |
@@ -193,6 +194,7 @@ some try on leetcode
 | [0025-reverse-nodes-in-k-group](https://github.com/defene/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/defene/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/defene/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/defene/leetcode/tree/master/0206-reverse-linked-list) |
@@ -289,6 +291,7 @@ some try on leetcode
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -399,4 +402,8 @@ some try on leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
