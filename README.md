@@ -25,6 +25,7 @@ some try on leetcode
 | [0051-n-queens](https://github.com/defene/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/defene/leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@ some try on leetcode
 | [0016-3sum-closest](https://github.com/defene/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/defene/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/defene/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/defene/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
