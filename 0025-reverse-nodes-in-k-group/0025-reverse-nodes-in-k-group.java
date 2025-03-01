@@ -13,21 +13,21 @@ class Solution {
         ListNode fast = head;
         ListNode prevFast = null;
         ListNode prevSlow = null;
-        boolean flag = false;
+        boolean overflow = false;
 
         while (fast != null) {
             ListNode slow = fast;
             for (int i = 0; i < k; i++) {
                 if (fast == null) {
-                    flag = true;
+                    overflow = true;
                     break;
                 }
                 prevFast = fast;
                 fast = fast.next;
             }
             prevFast.next = null;
-            if (prevSlow == null) head = flag ? slow : reverse(slow);
-            else prevSlow.next = flag ? slow : reverse(slow);
+            if (prevSlow == null) head = overflow ? slow : reverse(slow);
+            else prevSlow.next = overflow ? slow : reverse(slow);
             prevSlow = slow;
         }
 
