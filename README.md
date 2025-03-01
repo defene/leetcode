@@ -33,6 +33,7 @@ some try on leetcode
 | [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/defene/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/defene/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -122,6 +123,7 @@ some try on leetcode
 | [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/defene/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -342,6 +344,7 @@ some try on leetcode
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/defene/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
