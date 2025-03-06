@@ -321,6 +321,7 @@ some try on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
@@ -332,6 +333,7 @@ some try on leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
@@ -405,10 +407,12 @@ some try on leetcode
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
 ## Shortest Path
 |  |
