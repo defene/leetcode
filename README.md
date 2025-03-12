@@ -30,6 +30,7 @@ some try on leetcode
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/defene/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/defene/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
@@ -259,6 +260,7 @@ some try on leetcode
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/defene/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/defene/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
@@ -327,6 +329,7 @@ some try on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/defene/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/defene/leetcode/tree/master/0207-course-schedule) |
@@ -380,6 +383,7 @@ some try on leetcode
 | [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/defene/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/defene/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/defene/leetcode/tree/master/0200-number-of-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
@@ -392,6 +396,7 @@ some try on leetcode
 | [0046-permutations](https://github.com/defene/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/defene/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/defene/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Bit Manipulation
