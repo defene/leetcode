@@ -172,6 +172,7 @@ some try on leetcode
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/defene/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/defene/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
@@ -264,6 +265,7 @@ some try on leetcode
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/defene/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/defene/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/defene/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/defene/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
@@ -399,6 +401,7 @@ some try on leetcode
 | [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/defene/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/defene/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
