@@ -16,9 +16,9 @@ private:
         }
 
         for (int i = index; i < nums.size(); i++) {
-            swap(i, index, nums);
-            backtrack(nums, index + 1);
-            swap(i, index, nums);
+            std::swap(nums[i], nums[index]);
+            backtrack(nums, index + 1);        
+            std::swap(nums[i], nums[index]);
         }
     }
 
