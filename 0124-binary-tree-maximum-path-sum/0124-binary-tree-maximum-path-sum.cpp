@@ -10,25 +10,22 @@
  * };
  */
 class Solution {
-private:
-    int globalMax;
-
 public:
     int maxPathSum(TreeNode* root) {
-        globalMax = INT_MIN;
-        pathSum(root);
+        int globalMax = INT_MIN;
+        pathSum(root, globalMax);
 
         return globalMax;
     }
 
 private:
-    int pathSum(TreeNode* root) {
+    int pathSum(TreeNode* root, int &globalMax) {
         if (root == NULL) {
             return 0;
         }
 
-        int leftPathSum = pathSum(root->left);
-        int rightPathSum = pathSum(root->right);
+        int leftPathSum = pathSum(root->left, globalMax);
+        int rightPathSum = pathSum(root->right, globalMax);
 
         if (root->left == NULL && root->right == NULL) {
             globalMax = max(root->val, globalMax);
