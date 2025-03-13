@@ -7,6 +7,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/defene/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/defene/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/defene/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/defene/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/defene/leetcode/tree/master/0016-3sum-closest) |
@@ -98,6 +99,7 @@ some try on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/defene/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
@@ -312,6 +314,7 @@ some try on leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/defene/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/defene/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/defene/leetcode/tree/master/0218-the-skyline-problem) |
