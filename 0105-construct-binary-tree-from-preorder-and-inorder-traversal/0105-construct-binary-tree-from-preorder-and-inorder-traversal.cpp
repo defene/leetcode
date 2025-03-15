@@ -12,28 +12,26 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int, int> inorderIndex;
+        unordered_map<int, int> inorderIndexMap;
         for (int i = 0; i < inorder.size(); i++) {
-            inorderIndex[inorder[i]] = i;
+            inorderIndexMap[inorder[i]] = i;
         }
-        int preIndex = 0;
-        return helper(preorder, inorder, preIndex, 0, inorder.size() - 1, inorderIndex);
+
+        int preorderIndex = 0;
+        return helper(preorder, preorderIndex, inorderIndexMap, 0, inorder.size() - 1);
     }
-    
+
 private:
-    TreeNode* helper(vector<int>& preorder, vector<int>& inorder, int& preIndex,
-                     int inLeft, int inRight, unordered_map<int, int>& inorderIndex) {
-        if (inLeft > inRight) {
+    TreeNode* helper(vector<int>& preorder, int& preorderIndex, 
+                     unordered_map<int, int>& inorderIndexMap, int inLeft, int inRight) {
+        if (inRight < inLeft) {
             return nullptr;
         }
-        
-        TreeNode* root = new TreeNode(preorder[preIndex]);
-        int index = inorderIndex[root->val];
-        preIndex++; 
 
-        root->left = helper(preorder, inorder, preIndex, inLeft, index - 1, inorderIndex);
-        root->right = helper(preorder, inorder, preIndex, index + 1, inRight, inorderIndex);
-        
-        return root;
+        TreeNode* cur = new TreeNode(preorder[preorderIndex++]);
+        cur->left = helper(preorder, preorderIndex, inorderIndexMap, inLeft, inorderIndexMap[cur->val] - 1);
+        cur->right = helper(preorder, preorderIndex, inorderIndexMap, inorderIndexMap[cur->val] + 1, inRight);
+
+        return cur;     
     }
 };
