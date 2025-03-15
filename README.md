@@ -200,6 +200,7 @@ some try on leetcode
 | [0020-valid-parentheses](https://github.com/defene/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/defene/leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/defene/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -346,6 +347,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/defene/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/defene/leetcode/tree/master/0200-number-of-islands) |
@@ -442,6 +444,7 @@ some try on leetcode
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/defene/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/defene/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -449,6 +452,7 @@ some try on leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/defene/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/defene/leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/defene/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
