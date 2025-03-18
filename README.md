@@ -187,6 +187,7 @@ some try on leetcode
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/defene/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/defene/leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/defene/leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -283,6 +284,7 @@ some try on leetcode
 | [0058-length-of-last-word](https://github.com/defene/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/defene/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/defene/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/defene/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/defene/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/defene/leetcode/tree/master/0093-restore-ip-addresses) |
