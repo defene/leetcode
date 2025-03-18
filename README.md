@@ -184,6 +184,7 @@ some try on leetcode
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/defene/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/defene/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/defene/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/defene/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -257,6 +258,7 @@ some try on leetcode
 | [0012-integer-to-roman](https://github.com/defene/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/defene/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/defene/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/defene/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/defene/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/defene/leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
@@ -507,4 +509,8 @@ some try on leetcode
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/defene/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/defene/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/defene/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
