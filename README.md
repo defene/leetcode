@@ -46,6 +46,7 @@ some try on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/defene/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/defene/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/defene/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@ some try on leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/defene/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/defene/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -192,6 +194,7 @@ some try on leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/defene/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/defene/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/defene/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
@@ -291,6 +294,7 @@ some try on leetcode
 | [0125-valid-palindrome](https://github.com/defene/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/defene/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/defene/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/defene/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
@@ -329,6 +333,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/defene/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -518,4 +523,8 @@ some try on leetcode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/defene/leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
