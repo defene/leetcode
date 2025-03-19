@@ -2,32 +2,36 @@ class Solution {
 public:
     int numSquares(int n) {
         vector<int> square_nums;
-        for (int i = 1; i * i <= n; i++) {
+        for (int i = 1; i * i <= n; ++i) {
             square_nums.push_back(i * i);
         }
 
-        unordered_set<int> set;
-        set.insert(n);
+        queue<int> q;
+        unordered_set<int> visited;
 
+        q.push(n);
+        visited.insert(n);
+        
         int level = 0;
-        while (!set.empty()) {
-            level++;
-            unordered_set<int> next_set;
 
-            for (int ele : set) {
-                for (int sqr : square_nums) {
-                    if (ele == sqr) {
+        while (!q.empty()) {
+            level++;
+            int size = q.size();
+            for (int i = 0; i < size; ++i) {
+                int cur = q.front(); q.pop();
+                for (int sq : square_nums) {
+                    if (cur == sq)
                         return level;
-                    } else if (ele < sqr) {
+                    if (cur < sq)
                         break;
-                    } else {
-                        next_set.insert(ele - sqr);
+                    int next = cur - sq;
+                    if (!visited.count(next)) {
+                        q.push(next);
+                        visited.insert(next);
                     }
                 }
             }
-            set = next_set;
         }
-
         return level;
     }
 };
