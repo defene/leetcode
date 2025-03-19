@@ -63,6 +63,7 @@ some try on leetcode
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/defene/leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
@@ -118,6 +119,7 @@ some try on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
+| [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Sorting
 |  |
@@ -201,6 +203,7 @@ some try on leetcode
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/defene/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/defene/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/defene/leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
