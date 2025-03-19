@@ -47,6 +47,7 @@ some try on leetcode
 | [0134-gas-station](https://github.com/defene/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/defene/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/defene/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/defene/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
@@ -195,6 +196,7 @@ some try on leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/defene/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/defene/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/defene/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/defene/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
