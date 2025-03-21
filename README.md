@@ -65,6 +65,7 @@ some try on leetcode
 | [0274-h-index](https://github.com/defene/leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/defene/leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -205,6 +206,7 @@ some try on leetcode
 | [0279-perfect-squares](https://github.com/defene/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/defene/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
@@ -401,6 +403,7 @@ some try on leetcode
 | [0210-course-schedule-ii](https://github.com/defene/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/defene/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/defene/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/defene/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
