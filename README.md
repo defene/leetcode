@@ -74,6 +74,7 @@ some try on leetcode
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/defene/leetcode/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/defene/leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -412,6 +413,7 @@ some try on leetcode
 | [0684-redundant-connection](https://github.com/defene/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/defene/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Graph
 |  |
@@ -447,6 +449,7 @@ some try on leetcode
 | [0074-search-a-2d-matrix](https://github.com/defene/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/defene/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/defene/leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
