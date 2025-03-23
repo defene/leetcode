@@ -108,6 +108,7 @@ some try on leetcode
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/defene/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
@@ -173,6 +174,7 @@ some try on leetcode
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 ## Counting
 |  |
@@ -246,6 +248,7 @@ some try on leetcode
 | [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -321,6 +324,7 @@ some try on leetcode
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/defene/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/defene/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Queue
