@@ -17,7 +17,19 @@ public:
 
 private:
     string getSortedCopy(string str) {
-        sort(str.begin(), str.end());
-        return str;
+        const int ALPHABET_SIZE = 26;
+        std::vector<int> count(ALPHABET_SIZE, 0);
+        
+        for (char c : str) {
+            count[c - 'a']++;
+        }
+        
+        std::string sorted;
+        sorted.reserve(str.size());
+        for (int i = 0; i < ALPHABET_SIZE; i++) {
+            sorted.append(count[i], 'a' + i);
+        }
+
+        return sorted;
     }
 };
