@@ -73,6 +73,7 @@ some try on leetcode
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
@@ -173,6 +174,7 @@ some try on leetcode
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -188,6 +190,7 @@ some try on leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/defene/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Dynamic Programming
 |  |
