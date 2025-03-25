@@ -107,6 +107,7 @@ some try on leetcode
 | [0202-happy-number](https://github.com/defene/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
+| [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -142,6 +143,7 @@ some try on leetcode
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/defene/leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -351,6 +353,7 @@ some try on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/defene/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/defene/leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
@@ -383,6 +386,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -564,4 +568,8 @@ some try on leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/defene/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
