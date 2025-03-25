@@ -68,6 +68,7 @@ some try on leetcode
 | [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/defene/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/defene/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/defene/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -144,6 +145,7 @@ some try on leetcode
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/defene/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -175,6 +177,7 @@ some try on leetcode
 | [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/defene/leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
@@ -186,6 +189,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -354,6 +358,7 @@ some try on leetcode
 | [0218-the-skyline-problem](https://github.com/defene/leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/defene/leetcode/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
@@ -369,6 +374,7 @@ some try on leetcode
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
@@ -378,6 +384,7 @@ some try on leetcode
 | [0169-majority-element](https://github.com/defene/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/defene/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/defene/leetcode/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -568,6 +575,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/defene/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
