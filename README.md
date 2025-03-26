@@ -167,6 +167,7 @@ some try on leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/defene/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/defene/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/defene/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/defene/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/defene/leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
@@ -272,6 +273,7 @@ some try on leetcode
 | [0086-partition-list](https://github.com/defene/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/defene/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/defene/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/defene/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/defene/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/defene/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
