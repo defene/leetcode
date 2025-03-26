@@ -15,9 +15,11 @@ public:
         ListNode* prev = &dummy; 
         while (head != nullptr && head->next != nullptr) {
             ListNode *next = head->next;
+            
             head->next = head->next->next;
             next->next = head;
             prev->next = next;
+            
             prev = head;
             head = head->next;
         }
