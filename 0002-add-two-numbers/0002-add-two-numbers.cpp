@@ -13,8 +13,8 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* cur1 = l1;
         ListNode* cur2 = l2;
-        ListNode* dummy = new ListNode();
-        ListNode* curSum = dummy;
+        ListNode dummy(0);
+        ListNode* curSum = &dummy;
 
         bool tenFlag = false;
         while (cur1 != nullptr || cur2 != nullptr) {
@@ -43,6 +43,6 @@ public:
             curSum = curSum->next;              
         }
 
-        return dummy->next;
+        return dummy.next;
     }
 };
