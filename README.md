@@ -187,6 +187,7 @@ some try on leetcode
 | [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/defene/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -347,6 +348,7 @@ some try on leetcode
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/defene/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/defene/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -364,6 +366,7 @@ some try on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/defene/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
