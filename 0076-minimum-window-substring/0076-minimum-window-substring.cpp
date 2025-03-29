@@ -1,19 +1,21 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
+        if (s.length() == 0 || t.length() == 0) {
+            return "";
+        }
+
         unordered_map<char, int> map;
         for (char c : t) {
             map[c]++;
         }
         
-        int result = INT_MAX;
         int windowLeft = 0;
-        int start = 0;
         int matched = 0;
-        
+        int start = 0;
+        int result = INT_MAX;
         for (int windowRight = 0; windowRight < s.length(); windowRight++) {
             char cur = s[windowRight];
-            
             if (map.find(cur) != map.end()) {
                 map[cur]--;
                 if (map[cur] >= 0) {
@@ -34,6 +36,7 @@ public:
                         matched--;
                     }
                 }
+
                 windowLeft++;
             }
         }
