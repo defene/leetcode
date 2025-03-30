@@ -250,6 +250,7 @@ some try on leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/defene/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/defene/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/defene/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/defene/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -416,6 +417,7 @@ some try on leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/defene/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/defene/leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/defene/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
