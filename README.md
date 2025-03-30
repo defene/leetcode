@@ -79,6 +79,7 @@ some try on leetcode
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/defene/leetcode/tree/master/0739-daily-temperatures) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/defene/leetcode/tree/master/1105-uncrossed-lines) |
@@ -254,12 +255,14 @@ some try on leetcode
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/defene/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/defene/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/defene/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/defene/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/defene/leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
