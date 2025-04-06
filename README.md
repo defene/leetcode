@@ -81,6 +81,7 @@ some try on leetcode
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/defene/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0739-daily-temperatures](https://github.com/defene/leetcode/tree/master/0739-daily-temperatures) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
@@ -279,6 +280,7 @@ some try on leetcode
 | [0135-candy](https://github.com/defene/leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/defene/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 ## Linked List
 |  |
