@@ -87,6 +87,7 @@ some try on leetcode
 | [1036-rotting-oranges](https://github.com/defene/leetcode/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/defene/leetcode/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/defene/leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1345-perform-string-shifts](https://github.com/defene/leetcode/tree/master/1345-perform-string-shifts) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/defene/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Two Pointers
@@ -328,6 +329,7 @@ some try on leetcode
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/defene/leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1345-perform-string-shifts](https://github.com/defene/leetcode/tree/master/1345-perform-string-shifts) |
 ## String
 |  |
 | ------- |
@@ -367,6 +369,7 @@ some try on leetcode
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/defene/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1345-perform-string-shifts](https://github.com/defene/leetcode/tree/master/1345-perform-string-shifts) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/defene/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Queue
 |  |
