@@ -127,6 +127,7 @@ some try on leetcode
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/defene/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/defene/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1051-shortest-way-to-form-string](https://github.com/defene/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ some try on leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/defene/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/defene/leetcode/tree/master/0259-3sum-smaller) |
 | [0300-longest-increasing-subsequence](https://github.com/defene/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1051-shortest-way-to-form-string](https://github.com/defene/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/defene/leetcode/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 ## Sorting
 |  |
@@ -285,6 +287,7 @@ some try on leetcode
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0624-maximum-distance-in-arrays](https://github.com/defene/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
+| [1051-shortest-way-to-form-string](https://github.com/defene/leetcode/tree/master/1051-shortest-way-to-form-string) |
 ## Linked List
 |  |
 | ------- |
@@ -372,6 +375,7 @@ some try on leetcode
 | [0438-find-all-anagrams-in-a-string](https://github.com/defene/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/defene/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/defene/leetcode/tree/master/0768-partition-labels) |
+| [1051-shortest-way-to-form-string](https://github.com/defene/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1250-longest-common-subsequence](https://github.com/defene/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1345-perform-string-shifts](https://github.com/defene/leetcode/tree/master/1345-perform-string-shifts) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/defene/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
