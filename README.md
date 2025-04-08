@@ -78,6 +78,7 @@ some try on leetcode
 | [0416-partition-equal-subset-sum](https://github.com/defene/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/defene/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0457-circular-array-loop](https://github.com/defene/leetcode/tree/master/0457-circular-array-loop) |
+| [0487-max-consecutive-ones-ii](https://github.com/defene/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/defene/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/defene/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -250,6 +251,7 @@ some try on leetcode
 | [0337-house-robber-iii](https://github.com/defene/leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/defene/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/defene/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0518-coin-change-ii](https://github.com/defene/leetcode/tree/master/0518-coin-change-ii) |
 | [1105-uncrossed-lines](https://github.com/defene/leetcode/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/defene/leetcode/tree/master/1130-last-stone-weight-ii) |
@@ -399,6 +401,7 @@ some try on leetcode
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/defene/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/defene/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0487-max-consecutive-ones-ii](https://github.com/defene/leetcode/tree/master/0487-max-consecutive-ones-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
