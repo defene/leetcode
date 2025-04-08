@@ -197,6 +197,7 @@ some try on leetcode
 | [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/defene/leetcode/tree/master/0290-word-pattern) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/defene/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/defene/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/defene/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
@@ -371,6 +372,7 @@ some try on leetcode
 | [0224-basic-calculator](https://github.com/defene/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/defene/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/defene/leetcode/tree/master/0290-word-pattern) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/defene/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0383-ransom-note](https://github.com/defene/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/defene/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/defene/leetcode/tree/master/0399-evaluate-division) |
@@ -395,6 +397,7 @@ some try on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/defene/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/defene/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/defene/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/defene/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/defene/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
